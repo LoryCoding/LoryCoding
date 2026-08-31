@@ -18,6 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </p>
 
+**Others**
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 # ⚙️ The tools and OS i use
 
 ![OS](https://img.shields.io/badge/Main_OS-Windows%2011-0078D6.svg?logo=windows&logoColor=white)
